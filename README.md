@@ -1,1 +1,1 @@
-# Riover Craft hClaims Ender Pearl Fix
+# hClaims Ender Pearl Fix
